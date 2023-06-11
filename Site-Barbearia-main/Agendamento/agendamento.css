@@ -1,0 +1,616 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+#Titulo-Agendamento {
+    position: absolute;
+    margin-top: 50px;
+    margin-left: 200px;
+    background-color: rgb(36, 163, 36);
+
+}
+
+.agenda-cliente {
+    position: absolute;
+    margin-left: 300px;
+    width: 1000px;
+    height: 650px;
+    background-color: rgb(36, 163, 36);
+
+}
+
+
+.pessoa1 {
+    position: absolute;
+    margin-left: 0px;
+    margin-top: 2px;
+    width: 22px;
+    height: 18px;
+}
+
+.Contato1 {
+    margin-top: 2px;
+    width: 22px;
+    height: 18px;
+    position: absolute;
+    margin-left: 246px;
+
+
+}
+
+
+
+.pesoa1 {
+    margin-top: 150px;
+    margin-left: 45px;
+    position: absolute;
+    width: 640px;
+    height: 22px;
+    background-color: transparent;
+}
+
+#agendador1 {
+    position: absolute;
+
+}
+#agendador1 input {
+  
+    border-radius: 7px ;
+}
+
+
+
+#enviador1 {
+    position: absolute;
+    background-color: rgb(135, 235, 105);
+    width: 80px;
+    height: 21.5px;
+    color: black;
+    margin-left: 450px;
+    cursor: pointer;
+}
+
+#editar1 {
+
+    position: absolute;
+    width: 80px;
+    height: 21.5px;
+    background-color: rgb(94, 136, 252);
+    margin-left: 530px;
+    cursor: pointer;
+}
+
+#Nome1 {
+    text-align: center;
+    margin-left: 25px;
+    position: absolute;
+    width: 220px;
+    height: 22px;
+    background-color: gainsboro;
+    outline: none;
+}
+
+#Contato1 {
+    text-align: center;
+    text-transform: capitalize;
+    position: absolute;
+    margin-left: 270px;
+    width: 180px;
+    height: 22px;
+    background-color: gainsboro;
+    outline: none;
+
+}
+
+
+
+
+.pessoa2 {
+    position: absolute;
+    margin-left: 0px;
+    margin-top: 2px;
+    width: 22px;
+    height: 18px;
+}
+
+.Contato2 {
+    margin-top: 2px;
+    width: 22px;
+    height: 18px;
+    position: absolute;
+    margin-left: 246px;
+
+
+}
+
+.pesoa2 {
+    margin-top: 175px;
+    margin-left: 45px;
+    position: absolute;
+    width: 640px;
+    height: 22px;
+    background-color: transparent;
+}
+
+#agendador2 {
+    position: absolute;
+
+}
+#agendador2 input {
+  
+    border-radius: 7px ;
+}
+
+#enviador2 {
+    position: absolute;
+    background-color: rgb(135, 235, 105);
+    width: 80px;
+    height: 21.5px;
+    color: black;
+    margin-left: 450px;
+    cursor: pointer;
+}
+
+#editar2 {
+
+    position: absolute;
+    width: 80px;
+    height: 21.5px;
+    background-color: rgb(94, 136, 252);
+    margin-left: 530px;
+    cursor: pointer;
+}
+
+#Nome2 {
+    text-align: center;
+    margin-left: 25px;
+    position: absolute;
+    width: 220px;
+    height: 22px;
+    background-color: gainsboro;
+    outline: none;
+}
+
+#Contato2 {
+    text-align: center;
+    text-transform: capitalize;
+    position: absolute;
+    margin-left: 270px;
+    width: 180px;
+    height: 22px;
+    background-color: gainsboro;
+    outline: none;
+
+}
+
+
+
+
+
+.pessoa3 {
+    position: absolute;
+    margin-left: 0px;
+    margin-top: 2px;
+    width: 22px;
+    height: 18px;
+}
+
+.Contato3 {
+    margin-top: 2px;
+    width: 22px;
+    height: 18px;
+    position: absolute;
+    margin-left: 246px;
+
+
+}
+
+
+
+.pesoa3 {
+    margin-top: 200px;
+    margin-left: 45px;
+    position: absolute;
+    width: 640px;
+    height: 22px;
+    background-color: transparent;
+}
+
+#agendador3 {
+    position: absolute;
+
+}
+#agendador3 input {
+  
+    border-radius: 7px ;
+}
+
+
+
+#enviador3 {
+    position: absolute;
+    background-color: rgb(135, 235, 105);
+    width: 80px;
+    height: 21.5px;
+    color: black;
+    margin-left: 450px;
+    cursor: pointer;
+}
+
+#editar3 {
+
+    position: absolute;
+    width: 80px;
+    height: 21.5px;
+    background-color: rgb(94, 136, 252);
+    margin-left: 530px;
+    cursor: pointer;
+}
+
+#Nome3 {
+    text-align: center;
+    margin-left: 25px;
+    position: absolute;
+    width: 220px;
+    height: 22px;
+    background-color: gainsboro;
+    outline: none;
+}
+
+#Contato3 {
+    text-align: center;
+    text-transform: capitalize;
+    position: absolute;
+    margin-left: 270px;
+    width: 180px;
+    height: 22px;
+    background-color: gainsboro;
+    outline: none;
+
+}
+
+
+
+
+
+
+.pessoa4 {
+    position: absolute;
+    margin-left: 0px;
+    margin-top: 2px;
+    width: 22px;
+    height: 18px;
+}
+
+.Contato4 {
+    margin-top: 2px;
+    width: 22px;
+    height: 18px;
+    position: absolute;
+    margin-left: 246px;
+
+
+}
+
+
+
+.pesoa4 {
+    margin-top: 225px;
+    margin-left: 45px;
+    position: absolute;
+    width: 640px;
+    height: 22px;
+    background-color: transparent;
+}
+
+#agendador4 {
+    position: absolute;
+
+}
+#agendador4 input {
+  
+    border-radius: 7px ;
+}
+
+
+
+#enviador4 {
+    position: absolute;
+    background-color: rgb(135, 235, 105);
+    width: 80px;
+    height: 21.5px;
+    color: black;
+    margin-left: 450px;
+    cursor: pointer;
+}
+
+#editar4 {
+
+    position: absolute;
+    width: 80px;
+    height: 21.5px;
+    background-color: rgb(94, 136, 252);
+    margin-left: 530px;
+    cursor: pointer;
+}
+
+#Nome4 {
+    text-align: center;
+    margin-left: 25px;
+    position: absolute;
+    width: 220px;
+    height: 22px;
+    background-color: gainsboro;
+    outline: none;
+}
+
+#Contato4 {
+    text-align: center;
+    text-transform: capitalize;
+    position: absolute;
+    margin-left: 270px;
+    width: 180px;
+    height: 22px;
+    background-color: gainsboro;
+    outline: none;
+
+}
+
+
+
+
+
+
+.pessoa5 {
+    position: absolute;
+    margin-left: 0px;
+    margin-top: 2px;
+    width: 22px;
+    height: 18px;
+}
+
+.Contato5 {
+    margin-top: 2px;
+    width: 22px;
+    height: 18px;
+    position: absolute;
+    margin-left: 246px;
+
+
+}
+
+
+
+.pesoa5 {
+    margin-top: 250px;
+    margin-left: 45px;
+    position: absolute;
+    width: 640px;
+    height: 22px;
+    background-color: transparent;
+}
+
+#agendador5 {
+    position: absolute;
+
+}
+#agendador5 input {
+  
+    border-radius: 7px ;
+}
+
+
+
+#enviador5 {
+    position: absolute;
+    background-color: rgb(135, 235, 105);
+    width: 80px;
+    height: 21.5px;
+    color: black;
+    margin-left: 450px;
+    cursor: pointer;
+}
+
+#editar5 {
+
+    position: absolute;
+    width: 80px;
+    height: 21.5px;
+    background-color: rgb(94, 136, 252);
+    margin-left: 530px;
+    cursor: pointer;
+}
+
+#Nome5 {
+    text-align: center;
+    margin-left: 25px;
+    position: absolute;
+    width: 220px;
+    height: 22px;
+    background-color: gainsboro;
+    outline: none;
+}
+
+#Contato5 {
+    text-align: center;
+    text-transform: capitalize;
+    position: absolute;
+    margin-left: 270px;
+    width: 180px;
+    height: 22px;
+    background-color: gainsboro;
+    outline: none;
+
+}
+
+
+.pessoa6 {
+    position: absolute;
+    margin-left: 0px;
+    margin-top: 2px;
+    width: 22px;
+    height: 18px;
+}
+
+.Contato6 {
+    margin-top: 2px;
+    width: 22px;
+    height: 18px;
+    position: absolute;
+    margin-left: 246px;
+
+
+}
+
+
+
+.pesoa6 {
+    margin-top: 275px;
+    margin-left: 45px;
+    position: absolute;
+    width: 640px;
+    height: 22px;
+    background-color: transparent;
+}
+
+#agendador6 {
+    position: absolute;
+
+}
+#agendador6 input {
+  
+    border-radius: 7px ;
+}
+
+
+
+#enviador6 {
+    position: absolute;
+    background-color: rgb(135, 235, 105);
+    width: 80px;
+    height: 21.5px;
+    color: black;
+    margin-left: 450px;
+    cursor: pointer;
+}
+
+#editar6 {
+
+    position: absolute;
+    width: 80px;
+    height: 21.5px;
+    background-color: rgb(94, 136, 252);
+    margin-left: 530px;
+    cursor: pointer;
+}
+
+#Nome6 {
+    text-align: center;
+    margin-left: 25px;
+    position: absolute;
+    width: 220px;
+    height: 22px;
+    background-color: gainsboro;
+    outline: none;
+}
+
+#Contato6 {
+    text-align: center;
+    text-transform: capitalize;
+    position: absolute;
+    margin-left: 270px;
+    width: 180px;
+    height: 22px;
+    background-color: gainsboro;
+    outline: none;
+
+}
+
+
+
+
+
+.pessoa7 {
+    position: absolute;
+    margin-left: 0px;
+    margin-top: 2px;
+    width: 22px;
+    height: 18px;
+}
+
+.Contato7 {
+    margin-top: 2px;
+    width: 22px;
+    height: 18px;
+    position: absolute;
+    margin-left: 246px;
+
+
+}
+
+
+
+.pesoa7 {
+    margin-top: 300px;
+    margin-left: 45px;
+    position: absolute;
+    width: 640px;
+    height: 22px;
+    background-color: transparent;
+}
+
+#agendador7 {
+    position: absolute;
+
+}
+#agendador7 input {
+  
+    border-radius: 7px ;
+}
+
+
+#enviador7 {
+    position: absolute;
+    background-color: rgb(135, 235, 105);
+    width: 80px;
+    height: 21.5px;
+    color: black;
+    margin-left: 450px;
+    cursor: pointer;
+}
+
+#editar7 {
+
+    position: absolute;
+    width: 80px;
+    height: 21.5px;
+    background-color: rgb(94, 136, 252);
+    margin-left: 530px;
+    cursor: pointer;
+}
+
+#Nome7 {
+    text-align: center;
+    margin-left: 25px;
+    position: absolute;
+    width: 220px;
+    height: 22px;
+    background-color: gainsboro;
+    outline: none;
+}
+
+#Contato7 {
+    text-align: center;
+    text-transform: capitalize;
+    position: absolute;
+    margin-left: 270px;
+    width: 180px;
+    height: 22px;
+    background-color: gainsboro;
+    outline: none;
+
+}
